@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a876f20f-b7d8-40e3-b94a-207cb00ee3be": {
+      "ProjectGuid": "a876f20f-b7d8-40e3-b94a-207cb00ee3be",
+      "DisplayName": "ConsoleProgram",
+      "ColorIndex": 0
+    },
+    "031b3506-cf06-4e49-9f3a-cbe4a4d7a8b9": {
+      "ProjectGuid": "031b3506-cf06-4e49-9f3a-cbe4a4d7a8b9",
+      "DisplayName": "EKRLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

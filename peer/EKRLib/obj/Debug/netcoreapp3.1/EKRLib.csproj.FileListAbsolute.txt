@@ -1,0 +1,10 @@
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\bin\Debug\netcoreapp3.1\EKRLib.deps.json
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\bin\Debug\netcoreapp3.1\EKRLib.dll
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\bin\Debug\netcoreapp3.1\EKRLib.pdb
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\obj\Debug\netcoreapp3.1\EKRLib.csproj.AssemblyReference.cache
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\obj\Debug\netcoreapp3.1\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\obj\Debug\netcoreapp3.1\EKRLib.AssemblyInfoInputs.cache
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\obj\Debug\netcoreapp3.1\EKRLib.AssemblyInfo.cs
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\obj\Debug\netcoreapp3.1\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\obj\Debug\netcoreapp3.1\EKRLib.dll
+C:\Users\egor-\Desktop\Егор\peer\EKRLib\obj\Debug\netcoreapp3.1\EKRLib.pdb

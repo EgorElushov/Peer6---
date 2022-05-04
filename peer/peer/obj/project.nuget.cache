@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKi+ONAq6stP1GCoUpnE2FmFTkhfH6fi+olI5NQPuTdqn+tK68J5NWPnWPUNWRdmhqR1E64K1fIesdB96RkiVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egor-\\Desktop\\Егор\\peer\\peer\\ConsoleProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egor-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
